@@ -1,0 +1,6 @@
+{
+  "name": "Steg Studio",
+  "description": "Multi-media steganography and steganalysis studio. Hide and extract password-protected secrets in images, videos, audio, and documents with zero cryptographic leakage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
